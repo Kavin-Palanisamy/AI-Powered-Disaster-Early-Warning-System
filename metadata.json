@@ -1,0 +1,6 @@
+{
+  "name": "Disaster Early Warning System",
+  "description": "AI-powered disaster early warning system featuring real-time multi-sensor telemetry monitoring, predictive hazard modeling, cascading risk forecasting, and automated emergency action synthesis.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
