@@ -98,8 +98,8 @@ An AI-powered multi-hazard disaster early warning and civil defense command plat
 
 1. Clone or download the repository:
    ```bash
-   git clone <repository-url>
-   cd disaster-early-warning-system
+   git clone https://github.com/Kavin-Palanisamy/AI-Powered-Disaster-Early-Warning-System.git
+   cd AI-Powered-Disaster-Early-Warning-System
    ```
 
 2. Install dependencies:
@@ -145,6 +145,13 @@ npm start
 - Fallback heuristic models are implemented to guarantee autonomous failover if external network connectivity is degraded during simulated emergencies.
 
 ---
+
+## 👤 Author
+
+**Kavin Palanisamy**
+- GitHub: [@Kavin-Palanisamy](https://github.com/Kavin-Palanisamy)
+- Linkedin: https://www.linkedin.com/in/kavinp0204
+
 
 ## 📄 License
 
