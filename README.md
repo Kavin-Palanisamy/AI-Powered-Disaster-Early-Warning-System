@@ -14,7 +14,7 @@ An AI-powered multi-hazard disaster early warning and civil defense command plat
 ### 2. Predictive AI Hazard & Cascading Impact Engine
 - **Lead-Time Window Countdown**: Precision calculation of the remaining tactical window before primary $S$-wave or tsunami surge arrival at high-density metro centers.
 - **Cascading Hazard Chain Modeling**: Predicts sequential multi-hazard dependencies (e.g., Subduction Megaquake $\rightarrow$ Secondary Liquefaction & Resonance $\rightarrow$ Coastal Tsunami Surge $\rightarrow$ Dam Spillway Breach).
-- **AI Model Confidence & Bayesian Risk Assessment**: Evaluates exposure probability, population at risk, and geographic damage perimeter.
+- **AI Model Confidence & Bayesian Risk Assessment**: Evaluates exposure probability, population at risk, and geographic damage perimeter
 
 ### 3. Interactive GIS Hazard Radar & Evacuation Map
 - **Dynamic Wavefront Animation**: Vector cartographic projection rendering expanding $P$-wave (compression) and $S$-wave (destructive shear) propagation rings.
